@@ -5,7 +5,7 @@
   "main": "server.js",
   "scripts": {
     "test": "jest",
-    "coverge": "jest --collectCoverage"   
+    "coverage": "jest --collectCoverage"   
   },
   "author": "",
   "license": "ISC",
